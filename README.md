@@ -42,7 +42,7 @@ object IAMOMIDK {
 [linkedin]: https://www.linkedin.com/ir/iamomidk/
 <br>
 
-#### Rede Sociais!
+#### Social networks!
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
