@@ -1,49 +1,33 @@
-### Hey, there 👋
-
-I enjoy creating great software and helping other people do the same.
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object IAMOMIDK {
- val name = "Omid Kazemi"
- val acknowledgements = "Android/IOS Development"
- 
- val primarySkillset = "Reactive Programming"
- val languages = listOf("Java", "Kotlin", "Dart", "Swift") 
- val framework = "flutter"
-}
-```
-
-## **Languages and Tools:**  
-
-<code><img height="30" src="https://github.com/iamomidk/Images/blob/main/1820444_brand_logo_network_social_swift_icon.png"></code>
-<code><img height="30" src="https://github.com/iamomidk/Images/blob/main/317758_android_google_icon%20(1).png"></code>
-<code><img height="30" src="https://github.com/iamomidk/Images/blob/main/4691282_json_icon.png"></code>
-<code><img height="30" src="https://github.com/iamomidk/Images/blob/main/4691442_kotlin_icon.png"></code>
-<code><img height="30" src="https://github.com/iamomidk/Images/blob/main/4691465_flutter_icon.png"></code>
-<code><img height="30" src="https://github.com/iamomidk/Images/blob/main/4691533_firebase_icon.png"></code>
+# 💫 About Me:
+🔭 I’m currently working on Accounting software<br>🌱 I’m currently learning flutter<br>💬 Ask me about flutter and kotlin
 
 
-## **GitHub Statistics**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geniusThe1st) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamomidk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/iamomidk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/geniusTheFirst) 
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomidk&theme=dracula&hide_langs_below=1" />
-</a>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamomidk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamomidk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomidk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamomidk&show_icons=true&theme=dracula&line_height=27" alt="**IAMOMIDK** github stats"/>
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamomidk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[twitter]: https://twitter.com/geniusTheFirst
-[instagram]: https://www.instagram.com/iamomidk/
-[linkedin]: https://www.linkedin.com/ir/iamomidk/
-<br>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=geniusTheFirst)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-#### Social networks!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamomidk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=iamomidk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
